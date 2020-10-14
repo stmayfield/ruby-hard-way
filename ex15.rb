@@ -12,7 +12,7 @@ puts "Here's your file #{filename}:"
 print txt.read
 
 # Outputs non-interpolated string
-print "Type the filename again: "
+print "\nType the filename again: "
 # Command line prompts user for input and assigns input to the variable 'file_again'
 file_again = $stdin.gets.chomp
 
