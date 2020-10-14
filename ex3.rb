@@ -2,11 +2,9 @@ puts "I will now count my chickens:"
 # string
 
 puts "Hens #{25 + 30 / 6}"
-
 # Guess: Hens 30 | Actual: Hens 30
 
 puts "Roosters #{100 - 25 * 3 % 4}"
-
 # Guess: Roosters #{Twenty-five times three, remainder 4, subtracted from one hundred} | Actual: Roosters 97
 
 puts "Now I will count the eggs:"
