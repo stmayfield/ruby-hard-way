@@ -1,10 +1,14 @@
-user_name = ARGV.first # gets the first argument
+first, second = ARGV
+
+# user_name = ARGV.first # gets the first argument
+user_name = first
+user_age = second
 prompt = '> '
 
 # Interpolated string
 puts "Hi #{user_name}."
 # Non-interpolated string(?)
-puts "I'd like to ask you a few questions"
+puts "It looks like you're #{user_age} old. I'd like to ask you a few questions"
 # Interpolated string
 puts "Do you like me #{user_name}? "
 # outputs '> '
