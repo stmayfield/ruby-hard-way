@@ -40,5 +40,6 @@ puts "Is it less or equal? #{5 <= -2}"
 
 
 
+puts "This is a floating point number: #{(4 / 5)}"
 
-
+# ???
