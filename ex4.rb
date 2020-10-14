@@ -17,7 +17,7 @@ puts "There are only #{drivers} drivers available."
 puts "There will be #{cars_not_driven} empty cars today."
 # There will be 70 empty cars today.
 puts "We can transport #{carpool_capacity} people today."
-# We can transport 120 people today.
+# We can transport 120.0 people today.
 puts "We have #{passengers} to carpool today."
 # We have 90 passengers to carpool today.
 puts "We need to put about #{average_passengers_per_car} in each car"
