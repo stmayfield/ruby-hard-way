@@ -1,0 +1,44 @@
+SYMBOLS
+"" -> Encapsulates specified code to create a string
+'' -> Encapsulates specified code to create a string | Alternate syntax
+#{} -> Used to interpolate string with a variable
+= -> Equals / Assigns information to a variable
++ -> Add
+- -> Substract
+* -> Multiply
+/ -> Divide
+% -> Remainder ()
+
+REGEX
+\n -> Newline 
+%q -> Newline  | Alternate syntax
+\t -> Tab 
+\\ -> Backslash 
+
+METHODS
+puts -> Outputs a defined string and ends with a new line
+print -> Outputs a defined string without adding a new line
+gets -> Receives user input as a string
+chomp -> Removes newline from 'gets' method
+to_i -> Converts string to integer
+ARGV ->
+$stdin
+first -> first line/object/variable/argument
+open ->
+read ->
+truncate ->
+close ->
+length ->
+File ->
+exist? ->
+write ->
+seek ->
+def -> function declaration
+end -> ends function code block
+
+
+
+
+
+
+
