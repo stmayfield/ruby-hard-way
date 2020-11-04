@@ -3,19 +3,19 @@ A,TRUE,,,Preface
 B,TRUE,,,Introduction
 0,TRUE,,,The Setup
 1,TRUE,TRUE,,A Good First Program
-2,TRUE,,,Comments and Pound Characters
+2,TRUE,TRUE,,Comments and Pound Characters
 3,TRUE,TRUE,,Numbers and Math
 4,TRUE,TRUE,,Variables and Names
-5,TRUE,,,More Variables and Printing
-6,TRUE,,,Strings and Text
-7,TRUE,,,More Printing
-8,TRUE,,,"Printing, Printing"
-9,TRUE,,,"Printing, Printing, Printing"
-10,TRUE,,,What was That?
-11,TRUE,,,Asking Questions
-12,TRUE,,,Prompting People
-13,TRUE,,,"Parameters, Unpacking, Variables"
-14,TRUE,,,Prompting and Passing
+5,TRUE,TRUE,,More Variables and Printing
+6,TRUE,FALSE,,Strings and Text
+7,TRUE,FALSE,,More Printing
+8,TRUE,TRUE,,"Printing, Printing"
+9,TRUE,TRUE,,"Printing, Printing, Printing"
+10,TRUE,FALSE,,What was That?
+11,TRUE,TRUE,,Asking Questions
+12,TRUE,FALSE,,Prompting People
+13,TRUE,TRUE,,"Parameters, Unpacking, Variables"
+14,TRUE,FALSE,,Prompting and Passing
 15,TRUE,,,Reading Files
 16,TRUE,,,Reading and Writing Files
 17,TRUE,,,More Files
