@@ -20,4 +20,5 @@ puts "So you're #{age} years old, #{height} inches tall, and #{weight} pounds?"
     chop => removes last character (applies to regex... gets.chop removes 'n', leaving '"string"\') 
         Chain methods to remove last character (i.e. gets.chomp.chop)
     strip => removes blank/whitespace
+    $stdin => always reads from user input instead of filename (stdin 'standard input?')
 =end
