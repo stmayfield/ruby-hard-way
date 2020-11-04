@@ -12,7 +12,7 @@ puts formatter % {first: true, second: false, third: true, fourth: false}
 # Argument defined is string, therefore string passed as argument
 puts formatter % {first: formatter, second: formatter, third: formatter, fourth:formatter}
 
-# 'puts' outputs result as one line (\n not defined (?)) 
+# 'puts' outputs result as one line (\n not defined, use %q{} ?) 
 puts formatter % {
     first: "I had this thing.",
     second: "That you could type up right.",
