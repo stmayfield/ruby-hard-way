@@ -1,56 +1,56 @@
 ﻿Exercise,First,Second,Third,Exercise Name
-A,1,,,Preface
-B,1,,,Introduction
-0,1,,,The Setup
-1,1,,,A Good First Program
-2,1,,,Comments and Pound Characters
-3,1,,,Numbers and Math
-4,1,,,Variables and Names
-5,1,,,More Variables and Printing
-6,1,,,Strings and Text
-7,1,,,More Printing
-8,1,,,"Printing, Printing"
-9,1,,,"Printing, Printing, Printing"
-10,1,,,What was That?
-11,1,,,Asking Questions
-12,,,,Prompting People
-13,,,,"Parameters, Unpacking, Variables"
-14,,,,Prompting and Passing
-15,,,,Reading Files
-16,,,,Reading and Writing Files
-17,,,,More Files
-18,,,,"Names, Variables, Codes, Functions"
-19,,,,Functions and Variables
-20,,,,Functions and Files
-21,,,,Functions Can Return Something
-22,,,,What Do You Know So Far?
-23,,,,Read Some Code
-24,,,,More Practice
-25,,,,Even More Practice
-26,,,,"Congratulations, Take a Test"
-27,,,,Memorizing Logic
-28,,,,Boolean Practice
-29,,,,What if
-30,,,,Else and If
-31,,,,Making Decisions
-32,,,,Loops and Arrays
-33,,,,While Loops
-34,,,,Accessing Elements of Arrays
-35,,,,Branches and Functions
-36,,,,Sdesigning and Debugging
+A,TRUE,,,Preface
+B,TRUE,,,Introduction
+0,TRUE,,,The Setup
+1,TRUE,TRUE,,A Good First Program
+2,TRUE,,,Comments and Pound Characters
+3,TRUE,TRUE,,Numbers and Math
+4,TRUE,TRUE,,Variables and Names
+5,TRUE,,,More Variables and Printing
+6,TRUE,,,Strings and Text
+7,TRUE,,,More Printing
+8,TRUE,,,"Printing, Printing"
+9,TRUE,,,"Printing, Printing, Printing"
+10,TRUE,,,What was That?
+11,TRUE,,,Asking Questions
+12,TRUE,,,Prompting People
+13,TRUE,,,"Parameters, Unpacking, Variables"
+14,TRUE,,,Prompting and Passing
+15,TRUE,,,Reading Files
+16,TRUE,,,Reading and Writing Files
+17,TRUE,,,More Files
+18,TRUE,,,"Names, Variables, Codes, Functions"
+19,TRUE,,,Functions and Variables
+20,TRUE,,,Functions and Files
+21,TRUE,,,Functions Can Return Something
+22,TRUE,,,What Do You Know So Far?
+23,TRUE,,,Read Some Code
+24,TRUE,,,More Practice
+25,TRUE,,,Even More Practice
+26,TRUE,,,"Congratulations, Take a Test"
+27,TRUE,,,Memorizing Logic
+28,TRUE,,,Boolean Practice
+29,TRUE,,,What if
+30,TRUE,,,Else and If
+31,TRUE,,,Making Decisions
+32,TRUE,,,Loops and Arrays
+33,TRUE,,,While Loops
+34,TRUE,,,Accessing Elements of Arrays
+35,TRUE,,,Branches and Functions
+36,TRUE,,,Designing and Debugging
 37,,,,Symbol Review
-38,,,,Doing Things To Arrays
-39,,,,"Dictionaries, Oh Lovely Dictionaries"
-40,,,,"Modules, Classes, And Objects"
-41,,,,Learning to Speak Object Oriented
-42,,,,"Is-a, Has-a, Objects and Classes"
-43,,,,Gothons from Planet Percal #25
-44,,,,Inheritance vs. Composition
-45,,,,You Make a Game
-46,,,,A Project Skeleton
-47,,,,Automated Testing
-48,,,,Advanced User Input
-49,,,,Making Sentences
-50,,,,Your First Website
-51,,,,Getting Input From A Browser
-52,,,,The Start of Your Web Game
+38,TRUE,,,Doing Things To Arrays
+39,TRUE,,,"Dictionaries, Oh Lovely Dictionaries"
+40,TRUE,TRUE,,"Modules, Classes, And Objects"
+41,TRUE,,,Learning to Speak Object Oriented
+42,TRUE,,,"Is-a, Has-a, Objects and Classes"
+43,TRUE,,,Gothons from Planet Percal #25
+44,TRUE,,,Inheritance vs. Composition
+45,FALSE,,,You Make a Game
+46,TRUE,,,A Project Skeleton
+47,FALSE,,,Automated Testing
+48,FALSE,,,Advanced User Input
+49,FALSE,,,Making Sentences
+50,FALSE,,,Your First Website
+51,FALSE,,,Getting Input From A Browser
+52,FALSE,,,The Start of Your Web Game
