@@ -16,7 +16,7 @@ B,TRUE,,,Introduction
 12,TRUE,FALSE,,Prompting People
 13,TRUE,TRUE,,"Parameters, Unpacking, Variables"
 14,TRUE,FALSE,,Prompting and Passing
-15,TRUE,,,Reading Files
+15,TRUE,TRUE,,Reading Files
 16,TRUE,,,Reading and Writing Files
 17,TRUE,,,More Files
 18,TRUE,,,"Names, Variables, Codes, Functions"
