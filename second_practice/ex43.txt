@@ -1,0 +1,42 @@
+Game Engine: Maze of rooms with text prompts and deaths for each scene
+
+Scenes:
+
+- Death
+- Central Corridor
+- Laser Weapon Armory
+- The Bridge
+- Escape Pod
+
+Nouns:
+
+alien
+player
+ship
+maze
+room
+scene*
+gothon
+escape pod
+planet
+map*
+engine*
+death**
+central corridor**
+laser weapon armory**
+the bridge**
+
+Class hierarchy
+
+* Map
+- next_scene
+- opening_scene
+* Engine
+- play 
+* Scene
+- enter
+    *Death
+    *Central Corridor
+    *Laser Weapon Armory
+    *The Bridge
+    *Escape Pod
